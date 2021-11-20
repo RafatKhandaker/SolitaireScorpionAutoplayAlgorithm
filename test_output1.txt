@@ -1,0 +1,733 @@
+
+**    **    **    **    QC    KS    4H    **    
+**    **    **    **    AH    AS    KC    **    
+**    **    **    **    JS    9D    7D    **    
+5H    4D    6D    7H    6H    5S    2C    
+2S    6C    JH    7C    10S   8C    9S    
+QH    KD    3C    QD    3D    QS    AD    
+JD    3H    2D    2H    4S    10D   5C    
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+Checking Playable Options... (options highlighted within [..]) ...
+
+**    **    **    **    QC    KS    4H    **    
+**    **    **    **    [AH]  AS    KC    **    
+**    **    **    **    JS    [9D]  7D    **    
+5H    4D    6D    7H    6H    5S    2C    
+2S    6C    JH    7C    10S   8C    9S    
+QH    KD    3C    QD    3D    QS    [AD]  
+JD    3H    2D    [2H]  4S    [10D] 5C    
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+Swapping based on priority...
+Best Priority Card Determined: 2H    
+
+**    **    **    **    QC    KS    4H    **    
+**    **    **    **    AH    AS    KC    **    
+**    **    **    **    JS    9D    7D    **    
+5H    4D    6D    7H    6H    5S    2C    
+2S    6C    JH    7C    10S   8C    9S    
+QH    KD    3C    QD    3D    QS    AD    
+JD    3H    2D          4S    10D   5C          
+      2H                                        
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+Checking Playable Options... (options highlighted within [..]) ...
+
+**    **    **    **    QC    KS    4H    **    
+**    **    **    **    [AH]  AS    KC    **    
+**    **    **    **    JS    [9D]  7D    **    
+5H    4D    6D    7H    6H    5S    2C    
+2S    6C    JH    7C    10S   8C    9S    
+QH    KD    3C    QD    3D    QS    [AD]  
+[JD]  3H    2D          4S    [10D] 5C          
+      2H                                        
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+Swapping based on priority...
+Best Priority Card Determined: JD    
+
+**    **    **    **    QC    KS    4H    **    
+**    **    **    **    AH    AS    KC    **    
+**    **    **    **    JS    9D    7D    **    
+5H    4D    6D    7H    6H    5S    2C    
+2S    6C    JH    7C    10S   8C    9S    
+QH    KD    3C    QD    3D    QS    AD    
+      3H    2D    JD    4S    10D   5C          
+      2H                                        
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+Checking Playable Options... (options highlighted within [..]) ...
+
+**    **    **    **    QC    KS    4H    **    
+**    **    **    **    [AH]  AS    KC    **    
+**    **    **    **    JS    [9D]  7D    **    
+5H    4D    6D    7H    6H    5S    2C    
+2S    6C    [JH]  7C    10S   8C    9S    
+QH    KD    3C    QD    3D    QS    [AD]  
+      3H    2D    JD    4S    [10D] 5C          
+      2H                                        
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+Swapping based on priority...
+Best Priority Card Determined: JH    
+
+**    **    **    **    QC    KS    4H    **    
+**    **    **    **    AH    AS    KC    **    
+**    **    **    **    JS    9D    7D    **    
+5H    4D    6D    7H    6H    5S    2C    
+2S    6C          7C    10S   8C    9S          
+QH    KD          QD    3D    QS    AD          
+JH    3H          JD    4S    10D   5C          
+3C    2H                                        
+2D                                              
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+Checking Playable Options... (options highlighted within [..]) ...
+
+**    **    **    **    QC    KS    4H    **    
+**    **    **    **    [AH]  AS    KC    **    
+**    **    **    **    JS    [9D]  7D    **    
+5H    4D    6D    7H    6H    5S    2C    
+2S    6C          7C    10S   8C    9S          
+QH    KD          QD    3D    QS    [AD]        
+JH    3H          JD    4S    [10D] 5C          
+3C    2H                                        
+2D                                              
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+Swapping based on priority...
+Best Priority Card Determined: AH    
+
+**    **    **    **    QC    KS    4H    **    
+**    **    **    **          AS    KC    **    
+**    **    **    **          9D    7D    **    
+5H    4D    6D    7H          5S    2C          
+2S    6C          7C          8C    9S          
+QH    KD          QD          QS    AD          
+JH    3H          JD          10D   5C          
+3C    2H                                        
+2D    AH                                        
+      JS                                        
+      6H                                        
+      10S                                       
+      3D                                        
+      4S                                        
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+Checking Playable Options... (options highlighted within [..]) ...
+
+**    **    **    **    QC    KS    4H    **    
+**    **    **    **          AS    KC    **    
+**    **    **    **          [9D]  7D    **    
+5H    4D    6D    7H          5S    2C          
+2S    6C          7C          8C    9S          
+QH    KD          QD          QS    [AD]        
+JH    3H          JD          [10D] 5C          
+3C    2H                                        
+2D    AH                                        
+      JS                                        
+      6H                                        
+      10S                                       
+      3D                                        
+      4S                                        
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+Swapping based on priority...
+Best Priority Card Determined: 10D   
+
+**    **    **    **    QC    KS    4H    **    
+**    **    **    **          AS    KC    **    
+**    **    **    **          9D    7D    **    
+5H    4D    6D    7H          5S    2C          
+2S    6C          7C          8C    9S          
+QH    KD          QD          QS    AD          
+JH    3H          JD                5C          
+3C    2H          10D                           
+2D    AH                                        
+      JS                                        
+      6H                                        
+      10S                                       
+      3D                                        
+      4S                                        
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+Checking Playable Options... (options highlighted within [..]) ...
+
+**    **    **    **    QC    KS    4H    **    
+**    **    **    **          AS    KC    **    
+**    **    **    **          [9D]  7D    **    
+5H    4D    6D    7H          5S    2C          
+2S    6C          7C          8C    9S          
+QH    KD          QD          QS    [AD]        
+JH    3H          JD                5C          
+3C    2H          10D                           
+2D    AH                                        
+      [JS]                                      
+      6H                                        
+      10S                                       
+      3D                                        
+      4S                                        
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+Swapping based on priority...
+Best Priority Card Determined: JS    
+
+**    **    **    **    QC    KS    4H    **    
+**    **    **    **          AS    KC    **    
+**    **    **    **          9D    7D    **    
+5H    4D    6D    7H          5S    2C          
+2S    6C          7C          8C    9S          
+QH    KD          QD          QS    AD          
+JH    3H          JD          JS    5C          
+3C    2H          10D         6H                
+2D    AH                      10S               
+                              3D                
+                              4S                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+Checking Playable Options... (options highlighted within [..]) ...
+
+**    **    **    **    QC    KS    4H    **    
+**    **    **    **          AS    KC    **    
+**    **    **    **          9D    7D    **    
+5H    4D    6D    7H          5S    2C          
+2S    6C          7C          8C    9S          
+QH    KD          QD          QS    [AD]        
+JH    3H          JD          JS    5C          
+3C    2H          10D         6H                
+2D    AH                      10S               
+                              3D                
+                              4S                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+Swapping based on priority...
+Best Priority Card Determined: AD    
+
+**    **    **    **    QC    KS    4H    **    
+**    **    **    **          AS    KC    **    
+**    **    **    **          9D    7D    **    
+5H    4D    6D    7H          5S    2C          
+2S    6C          7C          8C    9S          
+QH    KD          QD          QS                
+JH    3H          JD          JS                
+3C    2H          10D         6H                
+2D    AH                      10S               
+AD                            3D                
+5C                            4S                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+Unvealing 3 Face-Down Cards...
+
+**    **    **    **    QC    KS    4H          
+**    **    **    **          AS    KC          
+**    **    **    **          9D    7D          
+5H    4D    6D    7H          5S    2C          
+2S    6C    8H    7C          8C    9S          
+QH    KD          QD          QS                
+JH    3H          JD          JS                
+3C    2H          10D         6H                
+2D    AH                      10S               
+AD    JC                      3D                
+5C                            4S                
+8D                                              
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+**    **    **    **    QC    KS    4H          
+**    **    **    **          AS    KC          
+**    **    **    **          9D    7D          
+5H    4D    6D    7H          5S    2C          
+2S    6C    8H    7C          8C    9S          
+QH    KD          QD          QS                
+JH    3H          JD          JS                
+3C    2H          10D         6H                
+2D    AH                      10S               
+AD    JC                      3D                
+5C                            4S                
+8D                                              
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+Checking Playable Options... (options highlighted within [..]) ...
+
+**    **    **    **    QC    KS    4H          
+**    **    **    **          AS    KC          
+**    **    **    **          [9D]  [7D]        
+5H    4D    6D    [7H]        5S    2C          
+2S    6C    8H    7C          8C    9S          
+QH    KD          QD          QS                
+JH    3H          JD          JS                
+3C    2H          10D         6H                
+2D    AH                      10S               
+AD    [JC]                    3D                
+5C                            4S                
+8D                                              
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+Swapping based on priority...
+Best Priority Card Determined: JC    
+
+**    **    **    **    QC    KS    4H          
+**    **    **    **    JC    AS    KC          
+**    **    **    **          9D    7D          
+5H    4D    6D    7H          5S    2C          
+2S    6C    8H    7C          8C    9S          
+QH    KD          QD          QS                
+JH    3H          JD          JS                
+3C    2H          10D         6H                
+2D    AH                      10S               
+AD                            3D                
+5C                            4S                
+8D                                              
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+Checking Playable Options... (options highlighted within [..]) ...
+
+**    **    **    **    QC    KS    4H          
+**    **    **    **    JC    AS    KC          
+**    **    **    **          9D    [7D]        
+5H    4D    6D    7H          5S    2C          
+2S    6C    8H    7C          8C    9S          
+QH    KD          QD          QS                
+JH    3H          JD          JS                
+3C    2H          10D         6H                
+2D    AH                      10S               
+AD                            3D                
+5C                            4S                
+8D                                              
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+Swapping based on priority...
+Best Priority Card Determined: 7D    
+
+**    **    **    **    QC    KS    4H          
+**    **    **    **    JC    AS    KC          
+**    **    **    **          9D                
+5H    4D    6D    7H          5S                
+2S    6C    8H    7C          8C                
+QH    KD          QD          QS                
+JH    3H          JD          JS                
+3C    2H          10D         6H                
+2D    AH                      10S               
+AD                            3D                
+5C                            4S                
+8D                                              
+7D                                              
+2C                                              
+9S                                              
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+No More Plays Left !! Thank you for playing Scorpion
+
+This has been a demonstration algorithm which will play scorpion based on a priority calculation to a user playable option
